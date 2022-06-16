@@ -19,7 +19,6 @@
       <url>https://maven.pkg.github.com/muhamadjibril123/tugas13</url>
     </repository>
   </distributionManagement>
-  
   <properties>
      <maven.compiler.source>1.8</maven.compiler.source>
      <maven.compiler.target>1.8</maven.compiler.target>
